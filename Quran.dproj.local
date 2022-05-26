@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/22 16:29:14.000.045,=E:\MyDev\delphi\Quran\Unit1.pas</Transaction>
+    <Transaction>2022/04/22 16:31:01.000.772,E:\MyDev\delphi\Quran\Unit1.pas=E:\MyDev\delphi\Quran\UnitRepoData.pas</Transaction>
+    <Transaction>2022/04/22 16:31:41.000.416,=E:\MyDev\delphi\Quran\Unit1.pas</Transaction>
+    <Transaction>2022/04/22 16:31:56.000.428,E:\MyDev\delphi\Quran\Unit1.dfm=E:\MyDev\delphi\Quran\UnitDM.dfm</Transaction>
+    <Transaction>2022/04/22 16:31:56.000.428,E:\MyDev\delphi\Quran\Unit1.pas=E:\MyDev\delphi\Quran\UnitDM.pas</Transaction>
+    <Transaction>2022/04/22 16:34:21.000.214,E:\MyDev\delphi\Quran\UnitDM.pas=</Transaction>
+    <Transaction>2022/04/23 03:24:46.000.584,=E:\MyDev\delphi\Quran\Unit1.pas</Transaction>
+    <Transaction>2022/04/23 03:25:57.000.985,E:\MyDev\delphi\Quran\Unit1.pas=E:\MyDev\delphi\Quran\Unit_Data_modul.pas</Transaction>
+    <Transaction>2022/04/23 03:25:57.000.985,E:\MyDev\delphi\Quran\Unit1.dfm=E:\MyDev\delphi\Quran\Unit_Data_modul.dfm</Transaction>
+    <Transaction>2022/04/26 10:25:58.000.800,=E:\MyDev\delphi\Quran\Unit2.pas</Transaction>
+    <Transaction>2022/04/26 10:26:27.000.874,E:\MyDev\delphi\Quran\Unit_Data_online.pas=E:\MyDev\delphi\Quran\Unit2.pas</Transaction>
+    <Transaction>2022/04/26 10:26:27.000.874,E:\MyDev\delphi\Quran\Unit_Data_online.dfm=E:\MyDev\delphi\Quran\Unit2.dfm</Transaction>
+    <Transaction>2022/04/26 16:37:16.000.935,=E:\MyDev\delphi\Quran\Unit1.pas</Transaction>
+    <Transaction>2022/04/26 16:37:40.000.724,E:\MyDev\delphi\Quran\Unit1.pas=E:\MyDev\delphi\Quran\Unit_Download.pas</Transaction>
+    <Transaction>2022/04/26 16:46:43.000.018,E:\MyDev\delphi\Quran\Unit_Download.pas=</Transaction>
+    <Transaction>2022/04/26 17:27:26.000.448,=E:\MyDev\delphi\Quran\Unit1.pas</Transaction>
+    <Transaction>2022/04/26 17:27:41.000.939,E:\MyDev\delphi\Quran\Unit_Download.pas=E:\MyDev\delphi\Quran\Unit1.pas</Transaction>
+    <Transaction>2022/05/21 10:02:54.000.143,=D:\MyDev\delphi\Quran\apphelpers.pas</Transaction>
+    <Transaction>2022/05/21 10:03:21.000.341,D:\MyDev\delphi\Quran\apphelpers.pas=</Transaction>
+    <Transaction>2022/05/22 14:35:53.000.889,=D:\MyDev\delphi\Quran\const.inc</Transaction>
+    <Transaction>2022/05/23 10:40:12.000.406,=D:\MyDev\delphi\Quran\Unit3.pas</Transaction>
+    <Transaction>2022/05/23 10:41:03.000.081,D:\MyDev\delphi\Quran\Unit_About.pas=D:\MyDev\delphi\Quran\Unit3.pas</Transaction>
+    <Transaction>2022/05/23 10:41:03.000.081,D:\MyDev\delphi\Quran\Unit_About.dfm=D:\MyDev\delphi\Quran\Unit3.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
